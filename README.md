@@ -1,4 +1,4 @@
 # Demo-project
 My practice demo project for git
 <br>
-author - isha thakare
+author - isha thakare(learner)
